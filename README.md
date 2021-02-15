@@ -10,3 +10,6 @@ The line in this text was added under the readme_editsbranch1_branch.
 * commit to the readme_editsbranch1_branch
 * look in the master branch.  Nothing appears.
 
+This is the second set of changes.  Applied with comments on the commit.
+
+

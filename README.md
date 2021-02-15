@@ -1,7 +1,5 @@
 # hello-world
-repository created for tutorial
+Readme created for tutorial and reused for ADO tutorial.
 
-This text exists only in branch-1
-
-Here is some text that was added with branch-2
+This text was created in the 'master' branch.
 

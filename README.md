@@ -12,4 +12,6 @@ The line in this text was added under the readme_editsbranch1_branch.
 
 This is the second set of changes.  Applied with comments on the commit.
 
+This is the third set of changes.  Will be used for second pull request.
+
 
